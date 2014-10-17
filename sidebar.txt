@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[swb:home|Door43 (swb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-swb|d43-swb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-swb/archive/master.zip|d43-swb.zip]]
+
+**Recent Changes**
+{{changes>ns = swb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/swb|Ethnologue data]]
+
